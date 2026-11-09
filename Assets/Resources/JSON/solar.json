@@ -1,0 +1,14 @@
+{
+  "bodies": [
+    { "name": "Sun",     "type": "Star",   "mass": 1.99e30, "orbitAU": 0,      "distance": 0,             "initial_velocity": 0,     "radius": 695508e3 },
+    { "name": "Mercury", "type": "Planet", "mass": 3.3e23,  "orbitAU": 0.387,  "distance": 57894375961,   "initial_velocity": 47360, "radius": 2439.4e3 },
+    { "name": "Venus",   "type": "Planet", "mass": 4.87e24, "orbitAU": 0.723,  "distance": 108159260516,  "initial_velocity": 35020, "radius": 6052e3 },
+    { "name": "Earth",   "type": "Planet", "mass": 5.97e24, "orbitAU": 1,      "distance": 149597870700,  "initial_velocity": 29780, "radius": 6371e3 },
+    { "name": "Mars",    "type": "Planet", "mass": 6.42e23, "orbitAU": 1.524,  "distance": 227987154947,  "initial_velocity": 24070, "radius": 3389.5e3 },
+    { "name": "Jupiter", "type": "Planet", "mass": 1.9e27,  "orbitAU": 5.203,  "distance": 778357721252,  "initial_velocity": 13070, "radius": 69911e3 },
+    { "name": "Saturn",  "type": "Planet", "mass": 5.68e26, "orbitAU": 9.537,  "distance": 1426714892866, "initial_velocity": 9680,  "radius": 58232e3 },
+    { "name": "Uranus",  "type": "Planet", "mass": 8.68e25, "orbitAU": 19.191, "distance": 2870932736604, "initial_velocity": 6800,  "radius": 25362e3 },
+    { "name": "Neptune", "type": "Planet", "mass": 1.02e26, "orbitAU": 30.069, "distance": 4498258374078, "initial_velocity": 5430,  "radius": 24622e3 },
+    { "name": "Pluto",   "type": "Dwarf",  "mass": 1.3e22,  "orbitAU": 39.482, "distance": 5906423130977, "initial_velocity": 4740,  "radius": 1188.3e3 }
+  ]
+}
